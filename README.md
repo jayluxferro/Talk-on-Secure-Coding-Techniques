@@ -8,6 +8,7 @@
 1. Burpsuite http://dl.downloadly.ir/Files/Software/Burp_Suite_Professional_2020.9.1_Build_3995_Downloadly.ir.rar
 2. JEB Decompiler http://dl.downloadly.ir/Files/Software2/JEB_Decompiler_for_Android_3.0.0.201808031948_Pro_Downloadly.ir.rar
 3. Git https://git-scm.com/downloads
+4. Visual Studio Code https://code.visualstudio.com
 
 ### Useful Links
 1. Unminify https://unminify.com
