@@ -9,6 +9,9 @@
 2. JEB Decompiler http://dl.downloadly.ir/Files/Software2/JEB_Decompiler_for_Android_3.0.0.201808031948_Pro_Downloadly.ir.rar
 3. Git https://git-scm.com/downloads
 4. Visual Studio Code https://code.visualstudio.com
+5. SQLiteBrowser https://sqlitebrowser.org/dl/
+6. Hopper (Demo version) https://www.hopperapp.com/download.html?
+7. iblessing https://github.com/Soulghost/iblessing/releases
 
 ### Useful Links
 1. Unminify https://unminify.com
