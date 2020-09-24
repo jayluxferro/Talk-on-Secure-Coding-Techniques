@@ -19,3 +19,6 @@
 2. JSON online editor http://jsoneditoronline.org
 3. Minifier (JS & CSS) https://www.minifier.org
 4. Mobile App Security Testing https://github.com/OWASP/owasp-mstg/blob/master/Document/0x04b-Mobile-App-Security-Testing.md
+
+### Demo
+1. Sample APKs https://github.com/jayluxferro/GhyRate-Weekend/releases/download/v1.0/Sample.apks.zip
