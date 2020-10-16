@@ -1,4 +1,4 @@
-## GhyRate Weekend
+## Secure Coding Techniques
 
 ### Runtime
 1. Nodejs https://nodejs.org/en/
